@@ -1,0 +1,46 @@
+{
+  "$GMTileSet":"",
+  "%Name":"TileAnorStair1",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":14,
+    "SerialiseWidth":15,
+    "TileCompressedData":[
+      -122,0,-2,6,6,0,6,0,6,0,6,-7,0,5,6,0,6,0,6,-3,0,-3,3,-10,0,-3,3,-2,0,1,6,-9,0,3,3,0,3,-3,0,1,6,-8,0,
+      -3,3,-13,0,1,3,-5,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"TileAnorStair1",
+  "out_columns":2,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Stair",
+    "path":"folders/Anor Londo Cenario/Stair.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_anorstaircase1",
+    "path":"sprites/spr_anorstaircase1/spr_anorstaircase1.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[0,1,2,3,4,5,],
+    "SerialiseFrameCount":1,
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":6,
+}

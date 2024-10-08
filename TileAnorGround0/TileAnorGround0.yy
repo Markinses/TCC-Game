@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"",
+  "%Name":"TileAnorGround0",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":66,
+    "SerialiseWidth":42,
+    "TileCompressedData":[-1281,0,2,1,4,-40,0,2,4,805306369,-1447,0,],
+    "TileDataFormat":1,
+  },
+  "name":"TileAnorGround0",
+  "out_columns":4,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Ground",
+    "path":"folders/Anor Londo Cenario/Ground.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_anorground0",
+    "path":"sprites/spr_anorground0/spr_anorground0.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,],
+    "SerialiseFrameCount":1,
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":16,
+}
