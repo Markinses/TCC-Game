@@ -1,0 +1,1 @@
+var _targetroom, _targetx, _targety;
